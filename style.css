@@ -1,5 +1,5 @@
 body {
-    max-width: 1600px;
+
     width: 100%;
     display: flex;
     padding: 2em;
@@ -8,14 +8,14 @@ body {
 }
 
 .container {
-    max-width: 1600px;
+
     padding: 20px;
     width: 100%;
     overflow: hidden;
     border: solid 2px black;
     box-sizing: border-box;
     overflow: hidden;
-    text-align: center;
+
 }
 
 .image-container {
